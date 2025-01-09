@@ -3,9 +3,11 @@
 This CMS is a web application developed by Laravel framework. It has the following Features:
 
 - Dashboard - Viewing of a number of reports.
-- Catalog - Country, Payment Mode, Status, Plocy Type, Product Category.
+- Catalog - Country, Payment Mode, Status, Policy Type, Product Category.
 - User Management - Users and Roles.
 - Insurer Company
+
+- Future Modules will include claims, finance
 
 
 
@@ -30,4 +32,4 @@ This CMS is a web application developed by Laravel framework. It has the followi
 
 ## License
 
-This Application is developed and licensed under the [Techdev Systems](https:techdevsystems.co.ke).
+This Application is developed and licensed under the kemkip.
